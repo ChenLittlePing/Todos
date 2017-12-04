@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+constructor	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  constructor(props) {$/;"	function	line:32
+state.ds	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^      ds: ds,$/;"	property	line:41
+state.hasItem	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^      hasItem: false,$/;"	property	line:42
+state.scrollEnable	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^      scrollEnable: true,$/;"	property	line:43
+state.addItemVisiable	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^      addItemVisiable: true,$/;"	property	line:44
+state.animatedValue	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^      animatedValue: new Animated.Value(0),$/;"	property	line:45
+componentDidMount	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  componentDidMount() {$/;"	function	line:50
+render	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  render() {$/;"	function	line:57
+renderHeader	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  renderHeader() {$/;"	function	line:77
+renderInput	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  renderInput() {$/;"	function	line:85
+renderList1	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  renderList1() {$/;"	function	line:113
+renderList	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  renderList() {$/;"	function	line:137
+onScroll	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  onScroll(event) {$/;"	function	line:159
+renderAddBtn	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  renderAddBtn() {$/;"	function	line:194
+addItem	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  addItem() {$/;"	function	line:221
+addItem.index	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^        index: this.listRecource.length,$/;"	property	line:224
+getDate	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  getDate() {$/;"	function	line:277
+updateList	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  updateList(item) {$/;"	function	line:282
+deleteItem	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  deleteItem(item) {$/;"	function	line:290
+onAddPress	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  onAddPress() {$/;"	function	line:299
+addNewRecord	E:\chenxiaoping\ReactNative\Todos\components\MainPage.js	/^  addNewRecord(item) {$/;"	function	line:310
